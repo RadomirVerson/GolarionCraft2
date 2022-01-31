@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
+
     "layer0": "golarioncraft/cold_iron_ingot"
   }
 }
